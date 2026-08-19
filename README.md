@@ -1,6 +1,26 @@
 # Always-on-top-desktop-clock
-
 A lightweight, customizable **always-on-top desktop clock for Windows**.
+
+## 💡 Why I Created This
+
+While using my Windows laptop, I wanted to keep a clock visible on the screen while working, studying, or using other applications.
+
+However, I found that many existing desktop clock solutions were either too complicated, used too many resources, had unnecessary features, or did not provide the level of customization and control I wanted.
+
+I wanted a simple clock that could:
+
+- Stay visible above other applications
+- Be moved anywhere on the screen
+- Be locked in a fixed position
+- Allow complete control over its appearance
+- Let me change the font, size, colors, and transparency
+- Stay lightweight and use minimal system resources
+
+So I decided to build my own **Always-on-top Desktop Clock** focused on simplicity, customization, and low resource usage.
+
+## 🎯 Goal
+
+The goal of this project is to provide a simple, lightweight, and customizable desktop clock for Windows without unnecessary features or complexity.
 
 ## ✨ Features
 
