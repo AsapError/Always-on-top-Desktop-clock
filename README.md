@@ -21,7 +21,9 @@ A lightweight, customizable **always-on-top desktop clock for Windows**.
 
 ## 📸 Screenshot
 
-![Always-on-top-desktop-clock](screenshot.png)
+<p align="center">
+  <img src="1.png" alt="Always-on-top desktop clock" width="600">
+</p>
 
 ## 📥 Download
 
